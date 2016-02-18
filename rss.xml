@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[David Méndez]]></title>
         <description><![CDATA[David Méndez]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-mendez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 21:25:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 21:25:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-mendez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CYhNgLkWwAEz_43.jpg:large">]]></description>
+            <link>https://thegrid.ai/david-mendez/a2733590-db09-42e8-a670-06e1d9a96a5c/index.html</link>
+            <guid isPermaLink="false">a2733590-db09-42e8-a670-06e1d9a96a5c</guid>
+            <pubDate>Thu, 18 Feb 2016 21:25:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Commerce connecté : quelle réalité en 2016 ?]]></title>
             <description><![CDATA[<article><h1>Commerce connecté : quelle réalité en 2016 ?</h1><p>Réalisée en 2016 par CCM Benchmark Institut et l'Université Paris Dauphine, cette infographie décrypte les principales tendances en matière de commerce connecté. Produits les plus achetés en ligne, paniers moyens, devices utilisés, canal d'achat... les principaux indicateurs du commerce connecté sont passés au crible. Découvrez l'infographie :</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21eeedfed95d3df0ff8687963320e34d4a74da2f.png"></article>]]></description>
